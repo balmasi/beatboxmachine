@@ -5,6 +5,7 @@ gem 'rails', '3.2.11'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
+gem 'awesome_print'
 gem 'sqlite3'
 
 gem 'httparty'
