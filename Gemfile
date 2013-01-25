@@ -24,8 +24,9 @@ end
 
 
 group :development do
-	gem 'ruby-debug'
+	gem 'debugger' 
 end
+
 gem 'jquery-rails'
 
 # To use ActiveModel has_secure_password
