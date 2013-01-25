@@ -9,6 +9,7 @@ gem 'awesome_print'
 gem 'sqlite3'
 
 gem 'httparty'
+gem 'json'
 
 # Gems used only for assets and not required
 # in production environments by default.

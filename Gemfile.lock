@@ -122,6 +122,7 @@ DEPENDENCIES
   debugger
   httparty
   jquery-rails
+  json
   rails (= 3.2.11)
   sass-rails (~> 3.2.3)
   sqlite3
